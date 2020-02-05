@@ -1,6 +1,9 @@
 Python CiviCRM
 ==============
 
+Forked from https://github.com/tallus/python-civicrm.git and 
+requred for Maker Space Tool Kit python programs.
+
 This is a module for interacting with the CiviCRM REST API Version 3.
 
 It's use should be fairly straight forward, at least if you have basic 
